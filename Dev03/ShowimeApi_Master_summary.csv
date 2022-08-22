@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Showtime - Get Extended by Id,22664,8952,82,873802,14652.77,0.521%,11.29958,29.31,3.44,2656.5
+Showtime - Get by Id,2603,9622,139,882997,17811.65,0.499%,1.29803,3.37,0.38,2656.8
+Showtime - Get by Theatre,521,13817,852,520956,23721.96,1.152%,.25999,7.20,0.08,28369.6
+Showtime - Get Dates by Theatre,259,7324,1249,17339,1652.34,0.386%,.12939,0.33,0.04,2621.8
+TOTAL,26047,9100,82,882997,15176.57,0.530%,12.98624,40.21,3.94,3170.5
